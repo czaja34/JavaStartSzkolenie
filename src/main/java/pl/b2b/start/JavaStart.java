@@ -1,6 +1,6 @@
-package pl.b2b.Start;
+package pl.b2b.start;
 
-public class Start {
+public class JavaStart {
 
     //getName(String name)
 

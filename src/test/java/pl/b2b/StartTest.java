@@ -1,18 +1,14 @@
 package pl.b2b;
 
-import org.junit.Before;
-import org.junit.Test;
-import pl.b2b.Start.Start;
-
-import static org.junit.Assert.*;
+import pl.b2b.start.JavaStart;
 
 public class StartTest {
 
-    private Start start;
+    private JavaStart start;
 
 //    @Before
 //    public void init() {
-//        start = new Start();
+//        start = new JavaStart();
 //    }
 //
 //    @Test

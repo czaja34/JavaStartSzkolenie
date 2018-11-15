@@ -101,10 +101,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-8" />
+    <option name="y" value="-1088" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -235,7 +235,7 @@
       <module name="JavaStartB2B" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.b2b.Start.*" />
+          <option name="PATTERN" value="pl.b2b.start.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,7 +258,7 @@
       <module name="JavaStartB2B" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.b2b.Start.*" />
+          <option name="PATTERN" value="pl.b2b.start.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,7 +281,7 @@
       <module name="JavaStartB2B" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.b2b.Start.*" />
+          <option name="PATTERN" value="pl.b2b.start.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
